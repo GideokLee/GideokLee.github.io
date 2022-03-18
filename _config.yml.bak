@@ -28,7 +28,7 @@ exclude:
   - not-pure-poole.gemspec
 
 # Optimize Jekyl SEO Tag
-instagram:
+twitter:
   username: kiddo__2
   card: summary
 logo: logo.png
